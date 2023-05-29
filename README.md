@@ -4,6 +4,7 @@ Simple currency conversion app, which uses exchanged rates API from [exchangerat
 
 [Demo](http://agapas.github.io/react-currency-converter)
 
+# Source (https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported)
 # In your package.json: change this line
 * "start": "react-scripts start"
  * to
